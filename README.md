@@ -732,3 +732,12 @@
             "unit": "g"
           }
         ]
+         },
+      "_links": {
+        "self": {
+          "href": "https://api.edamam.com/api/recipes/v2/43fe0ddb3c29932a33c8a2529061a6d6?type=public&app_id=c231d665&app_key=9032de6e2946e18cf2cb629410f36f28",
+          "title": "Self"
+        }
+      }
+    }
+]
